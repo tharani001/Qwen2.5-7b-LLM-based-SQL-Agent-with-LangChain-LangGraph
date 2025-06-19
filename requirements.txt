@@ -1,0 +1,16 @@
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-core==0.3.64
+langchain-docling==1.0.0
+langchain-ollama==0.3.3
+langchain-tavily==0.2.1
+langchain-text-splitters==0.3.8
+langgraph==0.4.8
+langgraph-checkpoint==2.0.26
+langgraph-prebuilt==0.2.2
+langsmith==0.3.45
+pandas==2.3.0
+pydantic==2.11.5
+python-dotenv==1.1.0
+requests==2.32.3
+scipy==1.15.3
